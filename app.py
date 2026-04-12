@@ -138,7 +138,7 @@ st.markdown("""
 st.markdown("""
 <div class="hero">
     <h1> Student Dropout Risk Predictor</h1>
-    <p>Built by <span>Ebitimi Imomotebegha</span> · MSc Data Science & AI · 
+    <p>Built by <span>Ebitimi Imomotebegha</span> · Data Scientist & Education Professional · 
     Using the Open University Learning Analytics Dataset (32,593 students)</p>
 </div>
 """, unsafe_allow_html=True)
@@ -250,6 +250,6 @@ st.markdown("""
 <p class="footer-note">
     Built by <a href="https://www.linkedin.com/in/ebitimi-imomotebegha-5a06b019a/" target="_blank">Ebitimi Imomotebegha</a> · 
     <a href="https://github.com/ebitimiimomos/student-dropout-predictor" target="_blank">GitHub</a> · 
-    MSc Data Science & AI, University of Liverpool
+    Data Scientist & Education Professional
 </p>
 """, unsafe_allow_html=True)
