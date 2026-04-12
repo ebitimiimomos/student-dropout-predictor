@@ -3,9 +3,9 @@ import pickle
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
 
-st.set_page_config(page_title="Student Dropout Risk Predictor", page_icon="🎓")
+st.set_page_config(page_title="Student Dropout Risk Predictor")
 
-st.title("🎓 Student Dropout Risk Predictor")
+st.title("Student Dropout Risk Predictor")
 st.markdown("Enter a student's profile to predict their risk of withdrawing from their course.")
 st.markdown("---")
 
