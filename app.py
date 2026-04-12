@@ -5,7 +5,6 @@ from sklearn.preprocessing import LabelEncoder
 
 st.set_page_config(
     page_title="Student Dropout Risk Predictor",
-    page_icon="🎓",
     layout="wide"
 )
 
