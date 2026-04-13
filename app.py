@@ -137,7 +137,7 @@ st.markdown("""
 
 st.markdown("""
 <div class="hero">
-    <h1> rrgtrrStudent Dropout Risk Predictor</h1>
+    <h1> Student Dropout Risk Predictor</h1>
     <p>Built by <span>Ebitimi Imomotebegha</span> · Data Scientist & Education Professional · 
     Using the Open University Learning Analytics Dataset (32,593 students)</p>
 </div>
